@@ -187,7 +187,7 @@ function SingleRecordDetails() {
                     <h2 className="text-lg font-semibold text-gray-800 dark:text-white">
                       Analysis Result
                     </h2>
-                    <div className="space-y-2">
+                    <div className="space-y-2 text-gray-800">
                       <ReactMarkdown>{analysisResult}</ReactMarkdown>
                     </div>
                   </div>
