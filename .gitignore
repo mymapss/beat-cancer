@@ -16,6 +16,11 @@ dist-ssr
 .env
 ./.env
 .env
+
+# database connection strings
+*PostgreSQL URI*
+*postgresql_url*
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
